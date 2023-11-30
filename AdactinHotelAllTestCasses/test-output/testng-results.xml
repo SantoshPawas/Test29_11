@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-06T07:29:11 PST" name="Default suite" finished-at="2023-11-06T07:29:33 PST" duration-ms="22202">
+    <groups>
+    </groups>
+    <test started-at="2023-11-06T07:29:11 PST" name="Default test" finished-at="2023-11-06T07:29:33 PST" duration-ms="22202">
+      <class name="Adactin_Test.AdactinTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Adactin_Test.AdactinTest@6bbe85a8]" started-at="2023-11-06T07:29:11 PST" name="openBrowser" finished-at="2023-11-06T07:29:21 PST" duration-ms="9353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:Adactin_Test.AdactinTest@6bbe85a8]" started-at="2023-11-06T07:29:21 PST" name="loginToApp" finished-at="2023-11-06T07:29:22 PST" duration-ms="1660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="BookHotel()[pri:3, instance:Adactin_Test.AdactinTest@6bbe85a8]" started-at="2023-11-06T07:29:22 PST" name="BookHotel" finished-at="2023-11-06T07:29:33 PST" duration-ms="11062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookHotel -->
+      </class> <!-- Adactin_Test.AdactinTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
